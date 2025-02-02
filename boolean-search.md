@@ -1,10 +1,10 @@
-# 1.
+# Пример 1
 Написать запрос для поиска Junior Frontend для Vue или React, но не включать тех у кого указано 0 лет опыта или 1 год опыта
 ```js
 "Junior Frontend" AND (Vue OR React) AND NOT ("Без опыта" OR "Опыт 1 год")
 ```
 
-# 2.
+# Пример 2
 Создать запрос, который находит Junior либо Senior Frontend разработчика либо developer для фреймфорка Vue либо React
 ```js
 (Junior OR Senior) AND frontend AND (разработчик OR developer) AND (Vue OR React)
