@@ -1,15 +1,11 @@
 # Keywords
-Ключевые слова.\
-**Ссылка:** [keywords.md](keywords.md)
+**Ключевые слова:** [keywords.md](keywords.md)
 
 # Boolean Search
-Логический поиск.\
-**Ссылка:** [boolean-search.md](boolean-search.md)
+**Логический поиск:** [boolean-search.md](boolean-search.md)
 
 # Resume Example
-Пример резюме.\
-**Ссылка:** [resume-example.md](resume-example.md)
+**Пример резюме:** [resume-example.md](resume-example.md)
 
 # Links
-Полезные ссылки.\
-**Ссылка:** [links.md](links.md)
+**Полезные ссылки:** [links.md](links.md)
