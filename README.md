@@ -1,6 +1,9 @@
 # FAQ
 **Часто задаваемые вопросы:** [questions.md](questions.md) 
 
+# My Questions
+**Мои вопросы собеседующему:** [my-questions.md](my-questions.md)
+
 # Keywords
 **Ключевые слова:** [keywords.md](keywords.md)
 
