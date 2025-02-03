@@ -1,3 +1,6 @@
+# FAQ
+**Часто задаваемые вопросы:** [questions.md](questions.md) 
+
 # Keywords
 **Ключевые слова:** [keywords.md](keywords.md)
 
