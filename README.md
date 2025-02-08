@@ -10,8 +10,8 @@
 # Boolean Search
 **Логический поиск:** [boolean-search.md](boolean-search.md)
 
-# Resume Example
-**Пример резюме:** [resume-example.md](resume-example.md)
+# Вакансии
+**Вакансии:** [vacancy.md](vacancy.md)
 
 # Links
 **Полезные ссылки:** [links.md](links.md)
